@@ -21,7 +21,7 @@ $ docker run test_rest_api:latest
 
 - Sample output
 
-<img src="https://github.com/vivek-bombatkar/MyLearningNotes/raw/master/Docker/docker_concept.JPG" />
+<img src="https://github.com/vivek-bombatkar/REST-API-with-Python/raw/master/pics/POST_rest_api.JPG" />
 
 
 
