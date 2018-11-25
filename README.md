@@ -6,12 +6,22 @@ This repo is the implementation for the REST endpoint that return the sum of a l
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 - Get latest code from git 
-'''
-git clone 
-'''
+```buildoutcfg
+git clone <URL>
+```
 
 - Build Docker image and run from docker 
 
+```buildoutcfg
+$ docker build -t test_rest_api .
+```
+```buildoutcfg
+$ docker run test_rest_api:latest 
+```
+
+- Sample output
+
+<img src="https://github.com/vivek-bombatkar/MyLearningNotes/raw/master/Docker/docker_concept.JPG" />
 
 
 
